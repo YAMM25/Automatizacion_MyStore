@@ -1,0 +1,6 @@
+pages/SecureAreaPage.java
+ pages.SecureAreaPage
+pages/HomePage.java
+ pages.HomePage
+pages/LoginPage.java
+ pages.LoginPage
